@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Essai 1/app/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Essai 1/app/src/main/res/layout/ajout_reunion_dialogalert.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Essai 2/app/src/main/res/layout/activity_ajout_reunion.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Essai 2/app/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Essai 2/app/src/main/res/layout/ajout_reunion_dialogalert.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Essai 2/app/src/main/res/layout/reunion_items.xml" value="0.33" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Essai 3/app/src/main/res/layout/activity_ajout_reunion.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Essai 3/app/src/main/res/layout/activity_main.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Essai 3/app/src/main/res/layout/ajout_reunion_dialogalert.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Essai 3/app/src/main/res/layout/layout_exemple.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Essai 3/app/src/main/res/layout/layout_image_edit.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/Essai 3/app/src/main/res/layout/reunion_items.xml" value="0.22" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyRecyclerView2 - Copy - Copy/app/src/main/res/layout/activity_ajout_reunion.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyRecyclerView2 - Copy - Copy/app/src/main/res/layout/activity_main.xml" value="0.1111111111111111" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyRecyclerView2 - Copy - Copy/app/src/main/res/layout/ajout_reunion_dialogalert.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyRecyclerView2 - Copy - Copy/app/src/main/res/layout/layout_image_edit.xml" value="0.19635416666666666" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyRecyclerView2 - Copy - Copy/app/src/main/res/layout/reunion_items.xml" value="0.18" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyRecyclerView2 - Copy/app/src/main/res/layout/activity_ajout_reunion.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyRecyclerView2 - Copy/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyRecyclerView2 - Copy/app/src/main/res/layout/reunion_items.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyRecyclerView2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyRecyclerView2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyRecyclerView2/app/src/main/res/layout/activity_main.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/MyRecyclerView2/app/src/main/res/layout/reunion_items.xml" value="0.17028985507246377" />
+      </map>
+    </option>
+  </component>
+  <component name="NullableNotNullManager">
+    <option name="myDefaultNullable" value="androidx.annotation.Nullable" />
+    <option name="myDefaultNotNull" value="android.support.annotation.NonNull" />
+    <option name="myNullables">
+      <value>
+        <list size="12">
+          <item index="0" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableDecl" />
+          <item index="1" class="java.lang.String" itemvalue="org.jetbrains.annotations.Nullable" />
+          <item index="2" class="java.lang.String" itemvalue="androidx.annotation.Nullable" />
+          <item index="3" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.Nullable" />
+          <item index="4" class="java.lang.String" itemvalue="com.android.annotations.Nullable" />
+          <item index="5" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.Nullable" />
+          <item index="6" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNullable" />
+          <item index="7" class="java.lang.String" itemvalue="android.support.annotation.Nullable" />
+          <item index="8" class="java.lang.String" itemvalue="javax.annotation.CheckForNull" />
+          <item index="9" class="java.lang.String" itemvalue="javax.annotation.Nullable" />
+          <item index="10" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.Nullable" />
+          <item index="11" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NullableType" />
+        </list>
+      </value>
+    </option>
+    <option name="myNotNulls">
+      <value>
+        <list size="11">
+          <item index="0" class="java.lang.String" itemvalue="androidx.annotation.RecentlyNonNull" />
+          <item index="1" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.qual.NonNull" />
+          <item index="2" class="java.lang.String" itemvalue="com.android.annotations.NonNull" />
+          <item index="3" class="java.lang.String" itemvalue="androidx.annotation.NonNull" />
+          <item index="4" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullType" />
+          <item index="5" class="java.lang.String" itemvalue="edu.umd.cs.findbugs.annotations.NonNull" />
+          <item index="6" class="java.lang.String" itemvalue="org.checkerframework.checker.nullness.compatqual.NonNullDecl" />
+          <item index="7" class="java.lang.String" itemvalue="android.support.annotation.NonNull" />
+          <item index="8" class="java.lang.String" itemvalue="org.jetbrains.annotations.NotNull" />
+          <item index="9" class="java.lang.String" itemvalue="javax.annotation.Nonnull" />
+          <item index="10" class="java.lang.String" itemvalue="org.eclipse.jdt.annotation.NonNull" />
+        </list>
+      </value>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

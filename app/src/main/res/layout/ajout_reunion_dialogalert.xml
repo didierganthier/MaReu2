@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/close_dialogueAdd"
+        android:layout_width="30sp"
+        android:layout_height="30sp"
+        android:layout_gravity="right"
+        android:layout_margin="10sp"
+        android:background="@drawable/ic_baseline_close_24"/>
+
+
+
+    <TextView
+        android:id="@+id/AjoutReunion_textView_titrePageAjout"
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:layout_marginTop="30sp"
+        android:gravity="center"
+        android:background="@color/purple_500"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:text="Ajouter une nouvelle Reunion" />
+
+    <EditText
+        android:id="@+id/nameReunion"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:inputType="textCapCharacters"
+        android:hint="Reunion #"
+        android:autofillHints="Reunion #" />
+
+    <EditText
+        android:id="@+id/AjoutReunion_editText_sujet"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Sujet de la Reunion"
+        android:inputType="textShortMessage" />
+
+    <EditText
+        android:id="@+id/AjoutReunion_editText_salle"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Salle de la Reunion (1 a 10)"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/AjoutReunion_timeText_hour"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:inputType="time"
+        android:hint="Entrez L'heure de la reunion"/>
+
+
+    <EditText
+        android:id="@+id/liste_emailReunion"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:ems="10"
+        android:inputType="textEmailAddress"
+        android:hint="Email participant"/>
+
+
+    <Button
+        android:id="@+id/AjoutReunion_button_ajouterNouvelleReunion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:background="@color/purple_500"
+        android:textColor="@color/black"
+        android:text="Ajouter" />
+</LinearLayout>

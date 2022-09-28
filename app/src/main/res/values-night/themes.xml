@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.MyRecyclerView2" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="android:statusBarColor">@color/purple_500</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
